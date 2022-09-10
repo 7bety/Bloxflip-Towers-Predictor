@@ -94,4 +94,4 @@ async def towers(ctx, round_id):
 
 
 
-bot.run('MTAxNTM4NzYxMDExNTQ5Mzk2OA.GLNwAi.rrfR4m8H0kCkPPZrdlchrs06zUhhVz25au8q20')
+bot.run('bot token')
